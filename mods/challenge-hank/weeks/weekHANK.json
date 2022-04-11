@@ -1,0 +1,31 @@
+{
+	"storyName": "Challenge HANK ft. tricky",
+	"difficulties": "Hard, FUCKED",
+	"hideFreeplay": false,
+	"weekBackground": "hank",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"hankmenu",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"accelerant",
+			"hank",
+			[
+				35,
+				40,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "accelerant"
+}
